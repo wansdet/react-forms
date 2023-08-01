@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@example.com",
+      "password": "admin",
+      "firstName": "Joe",
+      "lastName": "Bloggs",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "email": "user@example.com",
+      "password": "user",
+      "firstName": "Jayne",
+      "lastName": "Jackson",
+      "gender": "female"
+    },
+    {
+      "id": 3,
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "gender": "male"
+    },
+    {
+      "id": 4,
+      "email": "jane.smith@example.com",
+      "password": "password456",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "gender": "female"
+    },
+    {
+      "id": 5,
+      "email": "alexander.brown@example.com",
+      "password": "password789",
+      "firstName": "Alexander",
+      "lastName": "Brown",
+      "gender": "male"
+    }
+  ],
+  "addresses": [
+    {
+      "id": 1,
+      "name": "Joe Blogs",
+      "phoneNumber": "01234 567890",
+      "organisation": "Example Dot Com",
+      "propertyNumber": "Blenheim Suite, Floor 12",
+      "street": "28 Oxford Business Park North",
+      "locality": "Headington",
+      "city": "Oxford",
+      "state": "Oxfordshire",
+      "postalCode": "OX3 7AG",
+      "primaryAddress": true
+    },
+    {
+      "id": 2,
+      "name": "Alice Smith",
+      "phoneNumber": "98765 43210",
+      "organisation": "ABC Corporation",
+      "propertyNumber": "Suite 101",
+      "street": "123 Main Street",
+      "locality": "City Centre",
+      "city": "London",
+      "state": "Greater London",
+      "postalCode": "W1B 3HH",
+      "primaryAddress": true
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "phoneNumber": "555-1234",
+      "organisation": "XYZ Corp",
+      "propertyNumber": "Apt 456",
+      "street": "789 Elm Street",
+      "locality": "Suburbia",
+      "city": "Manchester",
+      "state": "Greater Manchester",
+      "postalCode": "M1 4BF",
+      "primaryAddress": true
+    },
+    {
+      "id": 4,
+      "name": "Jane Smith",
+      "phoneNumber": "(555) 6789",
+      "organisation": "Sample Company",
+      "propertyNumber": "Suite 789",
+      "street": "10 Oak Avenue",
+      "locality": "Village Centre",
+      "city": "Edinburgh",
+      "state": "City of Edinburgh",
+      "postalCode": "EH1 1TB",
+      "primaryAddress": true
+    },
+    {
+      "id": 5,
+      "name": "David Johnson",
+      "phoneNumber": "12345 678910",
+      "organisation": "Acme Ltd",
+      "propertyNumber": "Flat 3B",
+      "street": "45 High Street",
+      "locality": "West End",
+      "city": "Glasgow",
+      "state": "Glasgow City",
+      "postalCode": "G1 1AA",
+      "primaryAddress": true
+    }
+  ]
+}
